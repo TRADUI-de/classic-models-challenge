@@ -30,11 +30,11 @@ Test your results in the included test class.
 
 Fork or directly clone the repository
 
-git clone https://github.com/TRADUI-de/classic-models-challenge
+    git clone https://github.com/TRADUI-de/classic-models-challenge
 
 or if you’ve forked the repository then
 
-git clone git@github.com:YOURNAME/classic-models-challenge
+    git clone git@github.com:YOURNAME/classic-models-challenge
 
 === Building and running
 
