@@ -23,15 +23,15 @@ depending on your previous experience & development environment.
 
 We prepared you an database example which is based on the "Classic Models" built-in database scheme of BIRT.
 
-Please take a look at the SQLFiddle example at: ... url
-In the fiddle you will find  different tables like "CUSTOMERS", "PRODUCTS" and so on.
+In the database model you will find  different tables like "CUSTOMERS", "PRODUCTS" and so on.
 
-The goal for this task is, that you show up the top 5 customers based on their order volume for each country.
-Next, extend the exisiting query to identify the ratio of each top 5 customer of the total country order volume. Calculate it or use any built-in function.
+The goal for this task is, that you show up *the top 5 customers based on their order volume for each country*.
+Next, extend the exisiting query to identify *the ratio of each top 5 customer in relation of the total country order volume*. Calculate it or use any built-in function you know.
 
 ### Part B (testing your Java skills)
 
 In this last step fork / clone this java project. We prepared a small java project with a single main class. The project contains a CSV file with the required data from the "Classic Models" database from step one.
+
 First read the required data from the csv file. Your goal is exactly the same task as in step one, only programmed in java.
 
 Test your results in the included test class.
