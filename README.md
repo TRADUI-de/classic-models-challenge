@@ -1,6 +1,6 @@
 # TRADUI classic-models-challenge programming challenge
 
-=== Goal
+## Goal
 
 Implement a solution for the given tasks which aims for
  * robustness & correctness
@@ -13,13 +13,13 @@ Feel free to come up with own ideas & solutions. There is no plain "right" or "w
 
 If you feel bored by our challenge, feel free to provide creative alternative solutions and/or choose other technologies/ languages, if you think they would be a better fit.
 
-=== Tasks
+## Tasks
 
-=== Time estimation
+### Time estimation
 Between ~1 hour up to ~3.5 hours, 
 depending on your previous experience & development environment.
 
-=== Part A (testing your SQL skills)
+### Part A (testing your SQL skills)
 
 We prepared you an database example which is based on the "Classic Models" built-in database scheme of BIRT.
 
@@ -36,7 +36,7 @@ First read the required data from the csv file. Your goal is exactly the same ta
 
 Test your results in the included test class.
 
-=== Getting started
+## Getting started
 
 Fork or directly clone the repository
 
@@ -46,7 +46,7 @@ or if you’ve forked the repository then
 
     git clone git@github.com:YOURNAME/classic-models-challenge
 
-=== Building and running
+## Building and running
 
 The project scaffolds provides a Maven pom.xml as starting point. You should be able to start with any IDE or text editor you are convenient with.
 
@@ -64,6 +64,6 @@ Or use your IDE functionality::
 
     to run & debug you program.
 
-=== Submitting your results
+## Submitting your results
 
 Ideally you provide your solutions as Git repository with appropriate commits and descriptions. If you have a GitHub account (or create a new one), please feel free to publish your solution there.
