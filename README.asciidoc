@@ -1,7 +1,17 @@
 # TRADUI classic-models-challenge programming challenge
 
 === Goal
-The goal is, that 
+
+Implement a solution for the given tasks which aims for
+* robustness & correctness
+* readability & maintainability
+* clean software design & architecture
+
+Be prepared to discuss your implementation and software design decisions. Show us how you would solve the task when working on your day-to-day job.
+
+Feel free to come up with own ideas & solutions. There is no plain "right" or "wrong". Instead, we want to talk to you about how you achieved your goal and about your thoughts and design idea and process.
+
+If you feel bored by our challenge, feel free to provide creative alternative solutions and/or choose other technologies/ languages, if you think they would be a better fit.
 
 === Tasks
 
