@@ -26,13 +26,13 @@ We prepared you an database example which is based on the "Classic Models" built
 In the database model you will find  different tables like "CUSTOMERS", "PRODUCTS" and so on.
 
 The goal for this task is, that you show up *the top 5 customers based on their order volume for each country*.
-Next, extend the exisiting query to identify *the ratio of each top 5 customer in relation of the total country order volume*. Calculate it or use any built-in function you know.
+In the next step, extend the exisiting query to identify *the ratio of each top 5 customer in relation of the total country order volume*. Calculate it or use any built-in function you know.
 
 ### Part B (testing your Java skills)
 
-In this last step fork / clone this java project. We prepared a small java project with a single main class. The project contains a CSV file with the required data from the "Classic Models" database from step one.
+In this last step fork / clone this java project. We prepared a small java project with a single main class. The project contains a CSV file with the required data from the "Classic Models" database from part A.
 
-First read the required data from the csv file. Your goal is exactly the same task as in step one, only programmed in java.
+First parse the required data from the csv file. Your goal is exactly the same task as in part A, only programmed in java. Print out the result to console.
 
 Test your results in the included test class.
 
@@ -67,3 +67,5 @@ Or use your IDE functionality::
 ## Submitting your results
 
 Ideally you provide your solutions as Git repository with appropriate commits and descriptions. If you have a GitHub account (or create a new one), please feel free to publish your solution there.
+
+If you have any questions, don't hesitate to contact us via email.
