@@ -24,6 +24,8 @@ depending on your previous experience & development environment.
 We prepared you an database example which is based on the "Classic Models" built-in database scheme of BIRT.
 
 In the database model you will find  different tables like "CUSTOMERS", "PRODUCTS" and so on.
+The easiest way to use the database scheme is to install a mysql server on your laptop/pc.
+Use the classic_models_scheme.sql file to create the basement for the example.
 
 The goal for this task is, that you show up *the top 5 customers based on their order volume for each country*.
 In the next step, extend the exisiting query to identify *the ratio of each top 5 customer in relation of the total country order volume*. Calculate it or use any built-in function you know.
