@@ -3,9 +3,9 @@
 === Goal
 
 Implement a solution for the given tasks which aims for
-* robustness & correctness
-* readability & maintainability
-* clean software design & architecture
+ * robustness & correctness
+ * readability & maintainability
+ * clean software design & architecture
 
 Be prepared to discuss your implementation and software design decisions. Show us how you would solve the task when working on your day-to-day job.
 
